@@ -1,5 +1,5 @@
 ---
-name: UserStroy template
+name: UserStory template
 about: user stories
 title: ''
 labels: User Story
